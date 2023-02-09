@@ -12,6 +12,8 @@ Class 02 Stuff
 ## Class 03
 ## Class 04
 [Class 04](102/Class04/04notes.md)
-## Class 05
+## Class 04
 [Class 05](102/Class05/README.md)
+## Class 05
+[Class 06](102/Class06/C06.md)
 ## Class 06

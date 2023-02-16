@@ -14,3 +14,6 @@ Notes for Code School
 ## Class 06
 [Class 06](102/Class06/C06.md)
 ## Class 07
+ [Class 07](102/Class07/Class07notes.md)
+ ## Class 08 
+  [Class 08](102/Class08/C08notes.md)
